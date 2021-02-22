@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: "cksyn/stde-lab6:lastes"
+          tags: "cksyn/stde-lab6:lastest"
           push: true
